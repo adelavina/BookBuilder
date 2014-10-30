@@ -1,0 +1,427 @@
+INFO  2014-10-30 16:23:59,261 [main][BookBuilder.java:28] : HashMap building.
+INFO  2014-10-30 16:23:59,267 [main][BookBuilder.java:47] : HashMap built completely.
+INFO  2014-10-30 16:23:59,267 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,268 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,268 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,268 [main][BookBuilder.java:170] : Option: house.
+INFO  2014-10-30 16:23:59,268 [main][BookBuilder.java:141] : Next word will be: house.
+INFO  2014-10-30 16:23:59,269 [main][BookBuilder.java:144] : Last str legated: The blue
+INFO  2014-10-30 16:23:59,269 [main][BookBuilder.java:145] : Last word legated: blue
+INFO  2014-10-30 16:23:59,269 [main][BookBuilder.java:162] : Querying map for biGram: blue house.
+INFO  2014-10-30 16:23:59,269 [main][BookBuilder.java:172] : No entry in map for this biGram
+INFO  2014-10-30 16:23:59,269 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,269 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,269 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,270 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,270 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,272 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,272 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,272 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,273 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,273 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,273 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,273 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,273 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,273 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,273 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,274 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,274 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,274 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,274 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,274 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,274 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,274 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,275 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,275 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,275 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,275 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,275 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,275 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,276 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,276 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,276 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,276 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,276 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,276 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,276 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,277 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,277 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,277 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,277 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,277 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,277 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,278 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,278 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,278 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,278 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,278 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,278 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,278 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,279 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,279 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,279 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,279 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,279 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,280 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,280 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,280 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,280 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,280 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,281 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,281 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,281 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,281 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,282 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,282 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,282 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,282 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,282 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,283 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,283 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,283 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,283 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,284 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,284 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,284 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,284 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,284 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,284 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,285 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,285 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,285 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,285 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,285 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,285 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,285 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,285 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,286 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,286 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,286 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,286 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,286 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,286 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,286 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,287 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,287 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,287 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,287 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,287 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,287 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,287 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,288 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,288 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,288 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,288 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,288 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,289 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,289 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,289 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,289 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,290 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,290 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,290 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,290 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,291 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,291 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,291 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,291 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,292 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,292 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,292 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,292 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,292 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,293 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,293 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,293 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,293 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,294 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,294 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,294 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,294 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,295 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,295 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,295 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,295 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,296 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,296 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,300 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,300 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,300 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,300 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,300 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,300 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,301 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,301 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,301 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,301 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,301 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,301 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,301 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,301 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,302 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,302 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,302 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,302 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,302 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,302 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,302 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,303 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,303 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,303 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,303 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,303 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,303 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,303 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,303 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,304 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,304 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,304 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,304 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,304 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,304 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,304 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,305 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,305 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,305 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,305 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,305 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,305 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,305 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,306 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,306 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,306 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,306 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,306 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,306 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,306 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,307 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,307 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,307 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,307 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,307 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,307 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,307 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,307 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,308 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,309 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,309 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,309 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,309 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,309 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,309 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,309 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,310 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,310 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,310 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,310 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,310 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,310 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,310 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,310 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,311 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,311 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,311 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,311 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,311 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,311 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,311 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,311 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,312 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,312 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,312 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,312 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,312 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,313 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,313 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,313 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,313 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,313 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,314 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,314 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,314 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,314 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,314 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,315 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,315 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,315 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,315 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,315 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,316 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,316 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,316 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,316 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,316 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,317 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,317 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,317 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,317 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,317 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,317 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,317 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,318 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,318 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,318 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,318 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,318 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,318 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,318 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,318 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,319 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,319 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,319 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,319 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,319 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,319 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,319 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,319 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,320 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,320 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,320 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,320 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,320 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,320 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,320 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,321 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,321 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,321 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,321 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,321 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,322 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,322 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,322 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,322 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,322 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,322 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,323 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,323 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,323 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,323 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,323 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,324 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,324 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,324 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,324 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,324 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,324 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,324 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,324 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,325 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,326 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,327 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,327 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,327 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,327 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,327 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,328 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,328 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,328 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,328 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,328 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,328 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,329 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,329 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,329 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,329 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:23:59,329 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,329 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,330 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,330 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,330 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,330 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,330 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,330 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,331 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,331 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,331 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,331 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,331 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,331 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,332 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,332 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,332 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,332 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,332 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,332 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,333 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,333 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,333 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,333 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,333 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,333 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:23:59,334 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:23:59,334 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:23:59,334 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:23:59,334 [main][BookBuilder.java:112] : Can keep building after this line? true
+INFO  2014-10-30 16:23:59,334 [main][BookBuilder.java:77] : Can Keep Building after this paragraph? true
+INFO  2014-10-30 16:42:47,466 [main][BookBuilder.java:28] : HashMap building.
+INFO  2014-10-30 16:42:47,471 [main][BookBuilder.java:47] : HashMap built completely.
+INFO  2014-10-30 16:42:47,472 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:42:47,472 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:42:47,473 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:42:47,473 [main][BookBuilder.java:170] : Option: house.
+INFO  2014-10-30 16:42:47,473 [main][BookBuilder.java:141] : Next word will be: house.
+INFO  2014-10-30 16:42:47,473 [main][BookBuilder.java:144] : Last str legated: The blue
+INFO  2014-10-30 16:42:47,473 [main][BookBuilder.java:145] : Last word legated: blue
+INFO  2014-10-30 16:42:47,473 [main][BookBuilder.java:162] : Querying map for biGram: blue house.
+INFO  2014-10-30 16:42:47,473 [main][BookBuilder.java:172] : No entry in map for this biGram
+INFO  2014-10-30 16:42:47,474 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:44:07,500 [main][BookBuilder.java:28] : HashMap building.
+INFO  2014-10-30 16:44:07,506 [main][BookBuilder.java:47] : HashMap built completely.
+INFO  2014-10-30 16:44:07,507 [main][BookBuilder.java:59] : Starting seed: the blue
+INFO  2014-10-30 16:44:07,507 [main][BookBuilder.java:162] : Querying map for biGram: the blue
+INFO  2014-10-30 16:44:07,507 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:44:07,507 [main][BookBuilder.java:170] : Option: house
+INFO  2014-10-30 16:44:07,508 [main][BookBuilder.java:141] : Next word will be: house
+INFO  2014-10-30 16:44:07,508 [main][BookBuilder.java:144] : Last str legated: the blue
+INFO  2014-10-30 16:44:07,508 [main][BookBuilder.java:145] : Last word legated: blue
+INFO  2014-10-30 16:44:07,508 [main][BookBuilder.java:162] : Querying map for biGram: blue house
+INFO  2014-10-30 16:44:07,508 [main][BookBuilder.java:172] : No entry in map for this biGram
+INFO  2014-10-30 16:44:07,508 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:45:23,109 [main][BookBuilder.java:28] : HashMap building.
+INFO  2014-10-30 16:45:23,115 [main][BookBuilder.java:47] : HashMap built completely.
+INFO  2014-10-30 16:45:23,115 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:45:23,116 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:45:23,116 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:45:23,116 [main][BookBuilder.java:170] : Option: house
+INFO  2014-10-30 16:45:23,116 [main][BookBuilder.java:141] : Next word will be: house
+INFO  2014-10-30 16:45:23,116 [main][BookBuilder.java:144] : Last str legated: The blue
+INFO  2014-10-30 16:45:23,117 [main][BookBuilder.java:145] : Last word legated: blue
+INFO  2014-10-30 16:45:23,117 [main][BookBuilder.java:162] : Querying map for biGram: blue house
+INFO  2014-10-30 16:45:23,117 [main][BookBuilder.java:172] : No entry in map for this biGram
+INFO  2014-10-30 16:45:23,117 [main][BookBuilder.java:141] : Next word will be: null
+INFO  2014-10-30 16:45:30,493 [main][BookBuilder.java:28] : HashMap building.
+INFO  2014-10-30 16:45:30,499 [main][BookBuilder.java:47] : HashMap built completely.
+INFO  2014-10-30 16:45:30,499 [main][BookBuilder.java:59] : Starting seed: The blue
+INFO  2014-10-30 16:45:30,500 [main][BookBuilder.java:162] : Querying map for biGram: The blue
+INFO  2014-10-30 16:45:30,500 [main][BookBuilder.java:167] : Options are: 
+INFO  2014-10-30 16:45:30,500 [main][BookBuilder.java:170] : Option: house
+INFO  2014-10-30 16:45:30,500 [main][BookBuilder.java:141] : Next word will be: house
+INFO  2014-10-30 16:45:30,500 [main][BookBuilder.java:144] : Last str legated: The blue
+INFO  2014-10-30 16:45:30,501 [main][BookBuilder.java:145] : Last word legated: blue
+INFO  2014-10-30 16:45:30,501 [main][BookBuilder.java:162] : Querying map for biGram: blue house
+INFO  2014-10-30 16:45:30,501 [main][BookBuilder.java:172] : No entry in map for this biGram
+INFO  2014-10-30 16:45:30,501 [main][BookBuilder.java:141] : Next word will be: null
