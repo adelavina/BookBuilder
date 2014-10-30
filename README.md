@@ -8,6 +8,8 @@ The problem is initially splitted into two and thus solved as two diferent solut
 
 The first problem
 =================
+The first problem forces the application to read through a large amount of text data in order to build a map as shown by the description of the main problem.
+I aim to obtain a list of trigrams used by the books sampled and merge them into a consistent data structure.
 
 The second problem
 ==================
