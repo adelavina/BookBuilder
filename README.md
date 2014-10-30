@@ -1,5 +1,5 @@
-BookBuilder
-===========
+BookBuilder with MapReduce
+==========================
 
 This application aims to solve the problem described here:
 http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/
